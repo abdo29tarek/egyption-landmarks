@@ -85,7 +85,7 @@ section img:hover {
 /* Full Screen Contact */
 #contact-fs {
     height: 100vh;
-    background: url("images/pexels-diego-f-parra-33199-15131476.jpg") no-repeat center center/cover;
+    background: url("pexels-diego-f-parra-33199-15131476.jpg") no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -172,4 +172,5 @@ footer {
         width: 100%;
     }
 }
+
 
